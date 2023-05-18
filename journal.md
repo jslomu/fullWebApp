@@ -1,4 +1,7 @@
-2023-Jun-18
+<h1>Journal</h1>
+A journal file to keep track of my thoughts and ideas throughout the lifecycle of this project.
+
+<h3>2023-Jun-18</h3>
 Tracking my thoughts and questions throughout the lifetime of this project.
 
 Initial purpose:
